@@ -5,4 +5,3 @@ Git tracks changes of files.
 Createing a new branch is quick AND simple.
 add merge
 neo1 push
-neo2 push
